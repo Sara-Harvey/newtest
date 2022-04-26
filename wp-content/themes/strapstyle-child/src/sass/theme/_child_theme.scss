@@ -1,0 +1,39 @@
+a {
+	transition: all ease-in-out .15s;
+}
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none }
+a:active { text-decoration: none }
+
+li,
+.li,
+ul,
+.li {
+	list-style: none;
+	padding-left: none;
+	margin-left: none;
+}
+
+// search field
+
+input-group,
+.input-group {
+	padding: $spacer 0;
+}
+
+nav {
+	li {
+		padding: 0 $spacer;
+		list-style: none;
+	}
+	ul {
+		display: flex;
+		flex-direction: row;
+		text-decoration: none;
+	}
+	a {
+		text-decoration: none;
+	}
+}
