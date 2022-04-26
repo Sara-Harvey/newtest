@@ -34,7 +34,7 @@ $navbar_type       = get_theme_mod( 'understrap_navbar_type', 'collapse' );
 	<nav class="navbar navbar-expand-lg navbar-light bg-secondary">
   		<div class="container">
     
-    		<a class="navbar-brand" href="http://localhost:10013/">Navbar</a>
+    		<a class="navbar-brand" href="http://localhost:10013/">More About Lorem</a>
     	
 	    	<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 	      		<span class="navbar-toggler-icon navbar-toggler-light"></span>
